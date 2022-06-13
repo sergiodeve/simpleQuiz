@@ -2,7 +2,7 @@
 export const data = [
     
     {
-        question: '¿ Cual es la distancia que hay entre tierra a la luna?',
+        question: '¿ Cual es la distancia que hay entre la tierra y la luna?',
         choices: [
             '384.400 km',
             '5.384.400 km',
@@ -13,7 +13,7 @@ export const data = [
     },
 
     {
-        question: '¿ ¿Cuántos planetas hay en el Sistema Solar 2020??',
+        question: '¿Cuántos planetas hay en el Sistema Solar 2020?',
         choices: [
         '8 planetas',
         '18 planetas',
@@ -24,7 +24,7 @@ export const data = [
     },
 
     {
-        question: '¿Cuál era la montaña más alta del mundo?',
+        question: '¿Cuál es la montaña más alta del mundo?',
         choices: [
         'chimborazo',
         'El teide',

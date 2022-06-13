@@ -2,7 +2,7 @@
 export const data = [
     
     {
-        question: '¿ Cual es la distancia que hay entre tierra y la luna?',
+        question: '¿ Cual es la distancia que hay entre la tierra y la luna?',
         choices: [
             '384.400 km',
             '5.384.400 km',
